@@ -1,0 +1,19 @@
+.git
+.gitignore
+.venv
+.vscode
+DockerDesktopWSL
+docker/test
+docker/test2
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.DS_Store
+Docker Desktop Installer.exe
+*.egg
+.pytest_cache
+.coverage
+*.pem
+*.key
+.env

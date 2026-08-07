@@ -1,0 +1,12 @@
+.git/
+.gitignore
+.venv/
+.vscode/
+DockerDesktopWSL/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/

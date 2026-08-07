@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Docker
+DockerDesktopWSL/
+
+# TensorFlow models
+trained_vae/
+checkpoints/
+
+# Large datasets
+*.fasta
+*.h5
+*.keras
+*.ckpt
+*.pb
+*.vhdx
+
+# Logs
+*.log
