@@ -26,3 +26,6 @@ checkpoints/
 
 # Logs
 *.log
+
+# Generated results and outputs
+result/
